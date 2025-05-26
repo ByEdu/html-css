@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "da5dce9b746ab6e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "82c4825a80755112",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2061ba0be56375fa",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "PRATICAS02/Untitled.canvas",
+                "viewState": {
+                  "x": -1612.7460253350432,
+                  "y": 653.2394440435921,
+                  "zoom": -2.3333333333333326
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f40b40081a11d53a",
+    "type": "split",
+    "children": [
+      {
+        "id": "234b575a13a35297",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b8733e179caa9d8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5394cc1e0003f8ef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "83fd084a43ffbc79",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "0132c032ea24070a",
+    "type": "split",
+    "children": [
+      {
+        "id": "41f7910aa4194ed2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "167fcca3206e01b2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PRATICAS02/Untitled.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled"
+            }
+          },
+          {
+            "id": "01fe7d12821877f4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PRATICAS02/Untitled.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          },
+          {
+            "id": "9419f0ade874b54c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "07c963a64a93b383",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PRATICAS02/Untitled.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2061ba0be56375fa",
+  "lastOpenFiles": [
+    "projetoandorid/Nova pasta",
+    "projetoandorid/android-site.txt",
+    "projetoandorid/estyle/style.css",
+    "projetoandorid/estyle",
+    "projetoandorid/textos/android-site.txt",
+    "projetoandorid/textos",
+    "projetoandorid/android.html",
+    "projetoandorid/fontes/idroid.otf",
+    "projetoandorid/fontes",
+    "projetoandorid/__MACOSX/imagens",
+    "projetoandorid/__MACOSX/fontes",
+    "projetoandorid/imagens/irina-blok.jpg",
+    "projetoandorid/imagens/irina-blok-pq.jpg",
+    "projetoandorid/imagens/dan-droids.png",
+    "projetoandorid/imagens/dan-droids-pq.png",
+    "projetoandorid/imagens/bugdroid.png",
+    "praticas022/imagens/icons8-favicon-94.png",
+    "praticas013/midias/bn.jpg",
+    "praticas013/midias/js.jpg",
+    "praticas013/midias/hqdefault.jpg",
+    "praticas013/midias/midias.jpg",
+    "PRATICAS02/Untitled.canvas"
+  ]
+}
